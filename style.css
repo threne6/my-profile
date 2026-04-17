@@ -55,3 +55,9 @@ a:hover {
   display: inline;
   margin: 0 10px;
 }
+
+[data-tf-live] {
+  height: 500px;
+  width: 100%;
+  display: block; 
+}
